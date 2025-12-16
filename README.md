@@ -15,7 +15,7 @@ A simple Android application demonstrating **Over-The-Air (OTA) update** by down
 
 ## 📦 Download Demo APK
 
-You can try the latest version of the demo APK here:
+You can try demo APK here(make sure to use v1.0):
 
 👉 **[Download APK from GitHub Releases](https://github.com/nicolasjuniar/simple-ota-android-simulaltion/releases/latest)**
 
