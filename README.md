@@ -6,9 +6,12 @@ A simple Android application demonstrating **Over-The-Air (OTA) update** by down
 
 ## 🎬 Demo
 
-![OTA Update Demo](assets/demo.gif)
+<p align="center">
+  <img src="assets/demo.gif" width="300"/>
+</p>
 
 ---
+
 
 ## 📦 Download Demo APK
 
